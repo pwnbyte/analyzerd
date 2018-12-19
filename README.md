@@ -1,4 +1,4 @@
-# Analyzerd
+# Analyzerd V1.01 -- Beta
 Tool to get as much indexed information as possible to try to bypass WAFS
 
 ## [+] REQUIREMENTS [+]
