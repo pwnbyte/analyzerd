@@ -24,3 +24,5 @@ https://censys.io/
   $ ruby analyzerD.rb -u https://www.target.com -d --> only viewdns
   $ ruby analyzerD.rb -u https://www.target.com -c --> only censys
 ```
+
+![](https://github.com/ghostnil/analyzerd/blob/master/analyzerd_true.gif)
