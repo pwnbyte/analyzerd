@@ -26,3 +26,15 @@ https://censys.io/
 ```
 
 ![](https://github.com/ghostnil/analyzerd/blob/master/analyzerd_true.gif)
+
+
+
+
+
+
+# TODO
+
+```
+1 - Zoomeye fofa.so apis
+2 - HTML output
+```
