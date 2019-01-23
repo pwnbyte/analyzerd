@@ -1,4 +1,4 @@
-# Analyzerd V1.01 -- Beta
+# Analyzerd V2
 Tool to get as much indexed information as possible to try to bypass WAFS
 
 ## [+] REQUIREMENTS [+]
@@ -15,6 +15,7 @@ $ bundle install
 https://www.shodan.io/
 https://viewdns.info/api
 https://censys.io/
+https://www.zoomeye.org/
 ```
 
 #### [+] USAGE [+]:
@@ -23,6 +24,7 @@ https://censys.io/
   $ ruby analyzerD.rb -u https://www.target.com -s --> only shodan
   $ ruby analyzerD.rb -u https://www.target.com -d --> only viewdns
   $ ruby analyzerD.rb -u https://www.target.com -c --> only censys
+  $ ruby analyzerD.rb -u https://www.target.com -z --> only zoomeye
 ```
 
 ![](https://github.com/ghostnil/analyzerd/blob/master/analyzerd_true.gif)
@@ -35,6 +37,6 @@ https://censys.io/
 # TODO
 
 ```
-1 - Zoomeye fofa.so apis
+1 - fofa.so api
 2 - HTML output
 ```
